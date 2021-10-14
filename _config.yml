@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "kr-KOR"
+title                    : "아름다운 웹/앱을 만들고 싶습니다"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "장화현 Jang Hwahyun
 description              : "An amazing website."
 url                      :  "https://janghwahyun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
