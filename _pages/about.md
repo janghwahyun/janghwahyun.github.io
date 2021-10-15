@@ -1,5 +1,5 @@
 ---
-title: "이 블로그 설명서"
+title: "저란 놈이란"
 permalink: /about/
 layout: single
 ---
