@@ -5,9 +5,11 @@ main:
   - title: "About"
     url: /about/
   - title: "React"
-    url: /categories/spring/
+    url: /categories/React/
   - title: "TIL"
     url: /categories/TIL/
+  - title: "글"
+   url: /categories/writing/
   - title: "카테고리"
     url: /categories/
   - title: "태그"
