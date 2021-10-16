@@ -9,7 +9,7 @@ main:
   - title: "TIL"
     url: /categories/TIL/
   - title: "글"
-   url: /categories/writing/
+    url: /categories/writing/
   - title: "카테고리"
     url: /categories/
   - title: "태그"
