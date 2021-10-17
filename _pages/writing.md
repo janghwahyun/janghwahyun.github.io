@@ -1,6 +1,6 @@
 ---
 title: "writing"
-permalink: /categories/wrtin  /
+permalink: /categories/writing/
 layout: category
 author_profile: true
 taxonomy: writing
