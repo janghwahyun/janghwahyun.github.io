@@ -1,12 +1,17 @@
-
 ---
 title:  "신에게 잊혀진 사람들"
+excerpt: "신에게 잊혀진 사람들"
 toc: true
 toc_sticky: true
+header:
+  teaser:
+
 categories:
   - writing
 tags:
-  - writing
+  - writing  
+
+last_modified_at: 2021-10-18T23:06:00-05:00
 ---
 
 신에게 잊혀진 사람들    
